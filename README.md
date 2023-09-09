@@ -68,3 +68,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+**###public usage**
+In this project, If people want to use this:
+  ==>Do create a Firebase account or go for a Free Trail Version and create a project named 'SnappyBox'.
+  ==>Use the configuration credentials in 'firebase.js'.
+  ==>There you go! Chill with your online communities.
