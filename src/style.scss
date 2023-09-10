@@ -52,10 +52,10 @@
         border: none;
         width: 250px;
         border-bottom: 1px solid #a7bcff;
-        // &:focus{
-        //   // border:none;
-        //   border:#a7bcff;
-        // }        
+        &:focus{
+          // border:none;
+          outline-color:#a7bcff;
+        }        
         &::placeholder {
           color: rgb(175, 175, 175);
         }
